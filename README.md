@@ -11,7 +11,7 @@ These datasets can be viewed as regression tasks. The classes are ordered and no
 
 
 
-### AIM
+### OBJECTIVE
 To apply regression techniques and predict the quality of the wine.
 
 ### APPROACH
